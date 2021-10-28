@@ -1,4 +1,4 @@
-package helderrodrigues.testePratico.myapplication.model;
+package helderrodrigues.testePratico.myapplication.model.utils;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,7 +13,6 @@ import java.util.List;
 
 import helderrodrigues.testePratico.myapplication.R;
 import helderrodrigues.testePratico.myapplication.model.entity.Produto;
-import helderrodrigues.testePratico.myapplication.model.utils.DownloadImageCoffee;
 
 
 public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder>{

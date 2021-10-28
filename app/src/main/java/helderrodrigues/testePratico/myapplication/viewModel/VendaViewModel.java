@@ -2,7 +2,6 @@ package helderrodrigues.testePratico.myapplication.viewModel;
 
 import android.app.Application;
 import android.os.Build;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
@@ -10,8 +9,7 @@ import androidx.lifecycle.AndroidViewModel;
 
 import java.util.List;
 
-import helderrodrigues.testePratico.myapplication.R;
-import helderrodrigues.testePratico.myapplication.model.database.produtoRepository.VendaRepository;
+import helderrodrigues.testePratico.myapplication.model.database.repository.VendaRepository;
 import helderrodrigues.testePratico.myapplication.model.entity.Pedido;
 import helderrodrigues.testePratico.myapplication.model.entity.Venda;
 

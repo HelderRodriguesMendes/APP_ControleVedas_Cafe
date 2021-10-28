@@ -1,8 +1,7 @@
-package helderrodrigues.testePratico.myapplication.model.database.produtoRepository;
+package helderrodrigues.testePratico.myapplication.model.database.repository;
 
 import android.content.Context;
 import android.os.Build;
-import android.widget.Toast;
 
 import androidx.annotation.RequiresApi;
 

@@ -27,7 +27,7 @@ import java.util.List;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 import helderrodrigues.testePratico.myapplication.R;
-import helderrodrigues.testePratico.myapplication.model.Adapter;
+import helderrodrigues.testePratico.myapplication.model.utils.Adapter;
 import helderrodrigues.testePratico.myapplication.model.entity.Pedido;
 import helderrodrigues.testePratico.myapplication.model.entity.Produto;
 import helderrodrigues.testePratico.myapplication.model.utils.RecyclerItemClickListener;

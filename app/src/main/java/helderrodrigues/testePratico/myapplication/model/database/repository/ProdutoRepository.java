@@ -1,7 +1,6 @@
-package helderrodrigues.testePratico.myapplication.model.database.produtoRepository;
+package helderrodrigues.testePratico.myapplication.model.database.repository;
 
 
-import android.app.Activity;
 import android.content.Context;
 
 import java.util.List;
