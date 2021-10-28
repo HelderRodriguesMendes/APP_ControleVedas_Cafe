@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:id="@+id/idviewlist"
+    android:orientation="horizontal">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imageViewFotoListAdapter"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:src="@drawable/iconefoto" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="clip_vertical"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/textViewNomeListAdapter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nome"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewValorListAdapter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/value" />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name"> CAFÉ XYZ</string>
+
+    <string name="txt_titleList">CARDÁPIO</string>
+    <string name="value">Valor R$ </string>
+    <string name="txtTitleAlertDialogPedido">DESEJA PEDIR</string>
+    <string name="txtHintQtdAlertDialogPedido">Informe a quantidade desejada</string>
+    <string name="txtHintObsAlertDialogPedido">Observação</string>
+    <string name="txtBtnPositAlertDialogPedido">Pedir</string>
+    <string name="txtBtnNegatAlertDialogCancel">Cancelar</string>
+    <string name="txtValidacaoQtdPedido1">A quantidade do</string>
+    <string name="txtValidacaoQtdPedido2">não foi informada</string>
+
+    <string name="textTitleCompras">COMPRAS</string>
+    <string name="txtValorTotal">Valor Total:</string>
+    <string name="txtFormasPag">Formas de Pagamento</string>
+    <string name="txtFormaPag_cartao">DINHEIRO</string>
+    <string name="txtFormaPag_boleto">DÉBITO</string>
+    <string name="txtFormaPag_pix">CRÉDITO</string>
+    <string name="txtvalidacaoCupomDesc">Cupom de Desconto Invalido</string>
+    <string name="txtValidacoesCarrinhoFormaPag">Selecione uma forma de pagamento</string>
+    <string name="valorReal">R$</string>
+    <string name="txtCumpoDesconto">Insira um cupom de desconto</string>
+    <string name="txtTitleAlertDialogCarrinho">Confimação da Compra</string>
+    <string name="txtMessageAlertDialogCarrinho1">O valor total da compra é:</string>
+    <string name="txtMessageAlertDialogCarrinho2">A forma de pagamento é:</string>
+    <string name="txtBtnPositAlertDialogCarrinho">FINALIZAR COMPRA</string>
+    <string name="txtVendaFinalizadaSucess">Compra finalizada com sucesso</string>
+    <string name="txtValidacaoCarrinho">O carrinho está vazio</string>
+</resources>
