@@ -1,9 +1,7 @@
 # APP de controle de vendas de café
 
 <p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HelderRodriguesMendes/APP_controleVendasCafe">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/HelderRodriguesMendes/APP_controleVendasCafe">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HelderRodriguesMendes/APP_ControleVedas_Cafe">
 
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License MIT">
